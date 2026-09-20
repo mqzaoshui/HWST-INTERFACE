@@ -1,0 +1,12 @@
+# 编译产物
+build/
+
+# profiling 调试输出（prof_out / prof_custom / prof_minimal 等）
+prof*/
+
+# 临时文件
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db

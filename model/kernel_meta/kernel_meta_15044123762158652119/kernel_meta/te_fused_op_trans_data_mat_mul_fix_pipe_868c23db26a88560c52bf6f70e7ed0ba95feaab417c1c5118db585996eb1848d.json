@@ -1,0 +1,19 @@
+{
+    "KBHit":false,
+    "binFileName":"te_fused_op_trans_data_mat_mul_fix_pipe_868c23db26a88560c52bf6f70e7ed0ba95feaab417c1c5118db585996eb1848d",
+    "binFileSuffix":".o",
+    "blockDim":1,
+    "coreType":"AiCore",
+    "deterministic":"ignore",
+    "kernelName":"te_fused_op_trans_data_mat_mul_fix_pipe_868c23db26a88560c52bf6f70e7ed0ba95feaab417c1c5118db585996eb1848d__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF_AICUBE",
+    "memoryStamping":[],
+    "opParaSize":0,
+    "parameters":[
+        null,
+        null,
+        null,
+        null
+    ],
+    "sha256":"98b008bb8ae33e6cbf9b9cb64d6ee7a157eff381dcae2a7118cd3da71029d592"
+}

@@ -1,0 +1,17 @@
+{
+    "binFileName":"te_maxpoolv3_a4ea69c7f90109a73c489f3e0afcb195fcfb04c934856aa2923ac333b9a7c20a",
+    "binFileSuffix":".o",
+    "blockDim":1,
+    "cache_read_mode":0,
+    "coreType":"VectorCore",
+    "deterministic":"ignore",
+    "kernelName":"te_maxpoolv3_a4ea69c7f90109a73c489f3e0afcb195fcfb04c934856aa2923ac333b9a7c20a__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF_AIVEC",
+    "memoryStamping":[],
+    "opParaSize":0,
+    "parameters":[
+        null,
+        null
+    ],
+    "sha256":"98a0c029a6769afe9a2d84717e3b8f5ae86e4b37501c7ac4353db5624a64e50c"
+}

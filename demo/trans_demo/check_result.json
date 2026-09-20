@@ -1,0 +1,35 @@
+{
+  "fail": 1,
+  "name": "",
+  "op": [
+    {
+      "cause": [
+        {
+          "code": 1,
+          "message": "The type is not supported."
+        }
+      ],
+      "name": "/patch_embed/proj/CustomConv2D",
+      "result": "failed",
+      "type": "ai.onnx::13::CustomConv2D"
+    },
+    {
+      "name": "input",
+      "result": "success",
+      "type": "Input"
+    },
+    {
+      "name": "patch_embed.proj.bias_Initializer_0",
+      "result": "success",
+      "type": "Constant"
+    },
+    {
+      "name": "patch_embed.proj.weight_Initializer_1",
+      "result": "success",
+      "type": "Constant"
+    }
+  ],
+  "pass": 3,
+  "result": "failed",
+  "total": 4
+}
